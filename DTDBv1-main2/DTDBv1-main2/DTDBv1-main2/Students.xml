@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <sbd>2023001</sbd>
+        <name>Nguyễn Văn A</name>
+        <dob>1998-02-02T00:00:00+07:00</dob>
+        <gender>Nam</gender>
+        <address>123 Lê Lợi, Hà Nội</address>
+        <phone>0912345678</phone>
+        <subjects>
+            <subject>
+                <name>Toán</name>
+                <score>7.0</score>
+            </subject>
+            <subject>
+                <name>Văn</name>
+                <score>7.0</score>
+            </subject>
+            <subject>
+                <name>Anh</name>
+                <score>6.0</score>
+            </subject>
+            <subject>
+                <name>Vật lý</name>
+                <score>5.0</score>
+            </subject>
+            <subject>
+                <name>Hóa học</name>
+                <score>7.0</score>
+            </subject>
+            <subject>
+                <name>Sinh học</name>
+                <score>6.0</score>
+            </subject>
+        </subjects>
+        <totalScore>38.0</totalScore>
+    </student>
+    <student>
+        <sbd>2023002</sbd>
+        <name>Trần Thị Bảy</name>
+        <dob>2003-04-24T00:00:00+07:00</dob>
+        <gender>Nữ</gender>
+        <address>45 Nguyễn Huệ, Đà Nẵng</address>
+        <phone>0987654321</phone>
+        <subjects>
+            <subject>
+                <name>Toán</name>
+                <score>5.0</score>
+            </subject>
+            <subject>
+                <name>Văn</name>
+                <score>5.0</score>
+            </subject>
+            <subject>
+                <name>Anh</name>
+                <score>6.0</score>
+            </subject>
+            <subject>
+                <name>Vật lý</name>
+                <score>7.0</score>
+            </subject>
+            <subject>
+                <name>Hóa học</name>
+                <score>7.0</score>
+            </subject>
+            <subject>
+                <name>Sinh học</name>
+                <score>4.0</score>
+            </subject>
+        </subjects>
+        <totalScore>34.0</totalScore>
+    </student>
+    <student>
+        <sbd>2023003</sbd>
+        <name>Lê Văn C</name>
+        <dob>2000-10-07T00:00:00+07:00</dob>
+        <gender>Nam</gender>
+        <address>87 Hai Bà Trưng, TP.HCM</address>
+        <phone>0909123456</phone>
+        <subjects>
+            <subject>
+                <name>Toán</name>
+                <score>9.0</score>
+            </subject>
+            <subject>
+                <name>Văn</name>
+                <score>7.3</score>
+            </subject>
+            <subject>
+                <name>Anh</name>
+                <score>8.2</score>
+            </subject>
+            <subject>
+                <name>Vật lý</name>
+                <score>9.6</score>
+            </subject>
+            <subject>
+                <name>Hóa học</name>
+                <score>7.9</score>
+            </subject>
+            <subject>
+                <name>Sinh học</name>
+                <score>7.9</score>
+            </subject>
+        </subjects>
+        <totalScore>49.9</totalScore>
+    </student>
+    <student>
+        <sbd>2023004</sbd>
+        <name>Phạm Thị D</name>
+        <dob>2000-02-03T00:00:00+07:00</dob>
+        <gender>Nữ</gender>
+        <address>56 Trần Phú, Cần Thơ</address>
+        <phone>0938765432</phone>
+        <subjects>
+            <subject>
+                <name>Toán</name>
+                <score>7.9</score>
+            </subject>
+            <subject>
+                <name>Văn</name>
+                <score>7.2</score>
+            </subject>
+            <subject>
+                <name>Anh</name>
+                <score>9.5</score>
+            </subject>
+            <subject>
+                <name>Vật lý</name>
+                <score>8.2</score>
+            </subject>
+            <subject>
+                <name>Hóa học</name>
+                <score>8.3</score>
+            </subject>
+            <subject>
+                <name>Sinh học</name>
+                <score>9.0</score>
+            </subject>
+        </subjects>
+        <totalScore>50.1</totalScore>
+    </student>
+    <student>
+        <sbd>2023005</sbd>
+        <name>Hoàng Văn E</name>
+        <dob>2000-05-04T00:00:00+07:00</dob>
+        <gender>Nam</gender>
+        <address>99 Nguyễn Trãi, Huế</address>
+        <phone>0945678910</phone>
+        <subjects>
+            <subject>
+                <name>Toán</name>
+                <score>7.5</score>
+            </subject>
+            <subject>
+                <name>Văn</name>
+                <score>8.5</score>
+            </subject>
+            <subject>
+                <name>Anh</name>
+                <score>7.2</score>
+            </subject>
+            <subject>
+                <name>Vật lý</name>
+                <score>8.0</score>
+            </subject>
+            <subject>
+                <name>Hóa học</name>
+                <score>9.3</score>
+            </subject>
+            <subject>
+                <name>Sinh học</name>
+                <score>8.7</score>
+            </subject>
+        </subjects>
+        <totalScore>49.2</totalScore>
+    </student>
+    <student>
+        <sbd>2023006</sbd>
+        <name>Đỗ Thị F</name>
+        <dob>1998-01-22T00:00:00+07:00</dob>
+        <gender>Nữ</gender>
+        <address>12 Phan Đình Phùng, Hà Nội</address>
+        <phone>0961234567</phone>
+        <subjects>
+            <subject>
+                <name>Toán</name>
+                <score>9.9</score>
+            </subject>
+            <subject>
+                <name>Văn</name>
+                <score>8.4</score>
+            </subject>
+            <subject>
+                <name>Anh</name>
+                <score>7.2</score>
+            </subject>
+            <subject>
+                <name>Vật lý</name>
+                <score>7.1</score>
+            </subject>
+            <subject>
+                <name>Hóa học</name>
+                <score>9.0</score>
+            </subject>
+            <subject>
+                <name>Sinh học</name>
+                <score>7.7</score>
+            </subject>
+        </subjects>
+        <totalScore>49.3</totalScore>
+    </student>
+    <student>
+        <sbd>2023007</sbd>
+        <name>Ngô Văn G</name>
+        <dob>1998-02-27T00:00:00+07:00</dob>
+        <gender>Nam</gender>
+        <address>78 Lý Thường Kiệt, Quảng Ninh</address>
+        <phone>0976543210</phone>
+        <subjects>
+            <subject>
+                <name>Toán</name>
+                <score>9.0</score>
+            </subject>
+            <subject>
+                <name>Văn</name>
+                <score>7.7</score>
+            </subject>
+            <subject>
+                <name>Anh</name>
+                <score>9.1</score>
+            </subject>
+            <subject>
+                <name>Vật lý</name>
+                <score>9.7</score>
+            </subject>
+            <subject>
+                <name>Hóa học</name>
+                <score>9.9</score>
+            </subject>
+            <subject>
+                <name>Sinh học</name>
+                <score>7.4</score>
+            </subject>
+        </subjects>
+        <totalScore>52.8</totalScore>
+    </student>
+    <student>
+        <sbd>2023009</sbd>
+        <name>Bùi Văn I</name>
+        <dob>2001-01-24T00:00:00+07:00</dob>
+        <gender>Nam</gender>
+        <address>65 Phạm Văn Đồng, Đồng Nai</address>
+        <phone>0931234567</phone>
+        <subjects>
+            <subject>
+                <name>Toán</name>
+                <score>8.5</score>
+            </subject>
+            <subject>
+                <name>Văn</name>
+                <score>10.0</score>
+            </subject>
+            <subject>
+                <name>Anh</name>
+                <score>7.3</score>
+            </subject>
+            <subject>
+                <name>Vật lý</name>
+                <score>7.0</score>
+            </subject>
+            <subject>
+                <name>Hóa học</name>
+                <score>9.6</score>
+            </subject>
+            <subject>
+                <name>Sinh học</name>
+                <score>7.8</score>
+            </subject>
+        </subjects>
+        <totalScore>50.2</totalScore>
+    </student>
+    <student>
+        <sbd>2023010</sbd>
+        <name>Đặng Thị K</name>
+        <dob>1999-07-05T00:00:00+07:00</dob>
+        <gender>Nữ</gender>
+        <address>102 Nguyễn Tất Thành, Hải Phòng</address>
+        <phone>0956789123</phone>
+        <subjects>
+            <subject>
+                <name>Toán</name>
+                <score>9.3</score>
+            </subject>
+            <subject>
+                <name>Văn</name>
+                <score>7.8</score>
+            </subject>
+            <subject>
+                <name>Anh</name>
+                <score>9.9</score>
+            </subject>
+            <subject>
+                <name>Vật lý</name>
+                <score>9.4</score>
+            </subject>
+            <subject>
+                <name>Hóa học</name>
+                <score>8.8</score>
+            </subject>
+            <subject>
+                <name>Sinh học</name>
+                <score>8.0</score>
+            </subject>
+        </subjects>
+        <totalScore>53.2</totalScore>
+    </student>
+    <student>
+        <sbd>2023011</sbd>
+        <name>Phan Mỹ M</name>
+        <dob>2006-05-18T09:06:28.286+07:00</dob>
+        <gender>Nữ</gender>
+        <address>65 Tô Hiệu</address>
+        <phone>0854271369</phone>
+        <subjects>
+            <subject>
+                <name>Văn</name>
+                <score>2.3</score>
+            </subject>
+            <subject>
+                <name>Vật lý</name>
+                <score>9.6</score>
+            </subject>
+            <subject>
+                <name>Anh</name>
+                <score>5.6</score>
+            </subject>
+            <subject>
+                <name>Lịch sử</name>
+                <score>5.2</score>
+            </subject>
+            <subject>
+                <name>Địa lý</name>
+                <score>3.3</score>
+            </subject>
+            <subject>
+                <name>GDCD</name>
+                <score>5.6</score>
+            </subject>
+        </subjects>
+        <totalScore>31.6</totalScore>
+    </student>
+</students>
